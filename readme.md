@@ -20,4 +20,4 @@ I excel in:
 
 ## Let's Connect!
 
-Looking for someone who is passionate about clean code, scalable architectures, and continuous learning? Let's collaborate on your next project! Connect with me on [LinkedIn](https://www.linkedin.com/in/yourusername/) or check out my repositories on [GitHub](https://github.com/yourusername).
+Looking for someone who is passionate about clean code, scalable architectures, and continuous learning? Let's collaborate on your next project! Connect with me on [LinkedIn](https://www.linkedin.com/in/shubham-gor-9017b2228/) or check out my repositories on [GitHub](https://github.com/shubhamgor752).
