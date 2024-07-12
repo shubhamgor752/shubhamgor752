@@ -7,7 +7,7 @@ I am a dedicated software developer with a passion for crafting efficient backen
 ## Skills
 
 - **Programming Languages:** Python, JavaScript
-- **Frameworks & Libraries:** FastAPI, Flask, Django, SQLAlchemy, React.js
+- **Frameworks & Libraries:** FastAPI, Flask, Django, SQLAlchemy
 - **Database Systems:** PostgreSQL, MySQL, SQLite, MongoDB
 - **Tools & Technologies:** Docker, AWS, Git, RESTful APIs, CI/CD
 
