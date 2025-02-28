@@ -2,7 +2,7 @@
 
 ## About Me
 
-I am a dedicated software developer with a passion for crafting efficient backend solutions. Specializing in Python and FastAPI, I thrive on building scalable applications that leverage robust database designs and cloud deployments.
+I am a dedicated software developer with a passion for crafting efficient backend solutions. Specializing in Python and REST APIS, I thrive on building scalable applications that leverage robust database designs and cloud deployments.
 
 ## Skills
 
